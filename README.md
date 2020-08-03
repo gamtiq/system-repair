@@ -18,6 +18,7 @@ Resources and tools to repair, rescue and recover system.
 ### Tools & utilities
 * [BlueScreenView](https://www.nirsoft.net/utils/blue_screen_view.html) - scans all your minidump files created during 'blue screen of death' crashes, and displays the information about all crashes in one table. For each crash, BlueScreenView displays the minidump filename, the date/time of the crash, the basic crash information displayed in the blue screen (Bug Check Code and 4 parameters), and the details of the driver or module that possibly caused the crash (filename, product name, file description, and file version).
 * [HDDScan](https://hddscan.com/) - a freeware software for hard drive diagnostics (RAID arrays servers, Flash USB and SSD drives are also supported). The program can test storage device for errors (Bad-blocks and bad sectors), show S.M.A.R.T. attributes and change some HDD parameters such as AAM, APM, etc.
+* [MemTest86](https://www.memtest86.com/) - free, stand alone memory testing software for x86 computers. MemTest86 boots from a USB flash drive and tests the RAM in your computer for faults using a series of comprehensive algorithms and test patterns.
 * [Rufus](https://rufus.ie/) - a utility that helps format and create bootable USB flash drives, such as USB keys/pendrives, memory sticks, etc.
 
 ### Helpful resources
